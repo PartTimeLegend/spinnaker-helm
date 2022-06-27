@@ -1,5 +1,7 @@
 # Spinnaker Chart
 
+Forked to allow for Spinnaker 1.27.0 to use Halyard 1.45.0
+
 [Spinnaker](http://spinnaker.io/) is an open source, multi-cloud continuous delivery platform.
 
 ## Chart Details
